@@ -26,7 +26,7 @@ class ViewController: UIViewController {
     
     
     var animationPerformedOnce = false
-    
+    //test
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
         
